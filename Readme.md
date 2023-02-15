@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of Java language inside the discipline of Programming 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 Java Content
 
 - OOP
 - Classes
@@ -25,6 +25,12 @@ These exercises are a practice of Java language inside the discipline of Program
     - nextInt()
     - nextLine()
   - System.out.println()
+
+---
+
+## 🎯 Project objectives
+
+- Practice of Java language initial concepts
 
 ---
 
